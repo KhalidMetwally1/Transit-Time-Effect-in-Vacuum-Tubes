@@ -1,0 +1,5 @@
+{
+  "name": "Transit-Time Effect Simulator",
+  "description": "An educational animation demonstrating the transit-time effect in a vacuum triode tube at different signal frequencies. Visualize how electron motion, anode current, and phase relationships change from low to very high frequencies.",
+  "requestFramePermissions": []
+}
